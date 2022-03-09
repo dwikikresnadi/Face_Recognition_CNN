@@ -1,0 +1,7 @@
+streamlit
+tensorflow-cpu
+Pillow
+numpy
+requests
+streamlit_lottie
+opencv-python-headless
